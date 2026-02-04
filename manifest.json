@@ -6,5 +6,5 @@
 	"description": "A Kanban view for Bases.",
 	"author": "Ethan Merrill",
 	"authorUrl": "https://ethanmerrill.com",
-	"isDesktopOnly": true
+	"isDesktopOnly": false
 }
